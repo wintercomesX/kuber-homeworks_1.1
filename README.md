@@ -1,2 +1,2 @@
-# kuber-homeworks_1.1
-kuber-homeworks_1.1
+# Домашнее задание к занятию 14 «Kubernetes. Причины появления. Команда kubectl» Кандала Кирилл
+## Задание 1
